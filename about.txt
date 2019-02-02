@@ -1,2 +1,3 @@
 Testing adding a new file.
 This is the start of my journey.
+I like to work with JavaScript
